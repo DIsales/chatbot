@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prueba-privado-riic",
+  "private_key_id": "9bd120509eb062385ecea155e5b33f4927858b8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBYmODk9/8QvAK\neYTLCF2FfjMuR9ScwcHzZ/ywhY3LZmkc8cw0C6tCmFEJc7qJI4ks/7OYSb5SYMbL\nRIpFeC9WlOQQrqCOGsFpQjKOw8LQLQjX1T9iFlsaLI/YeLjHIteYWSKtpXxQAA/F\nnyWQ4CewtS6dHCGcahvWefg721USVSA/ZhORd9GtYlfomL5wZgoLbplITxu1GxHI\n6v6pS9Z2JHSErX8phCeL2auYVUcUXeJ6WI/g5/h0B7HY8NpyElRwMbPatCllniig\nJjgCt75CMqW41gStDHZEiN9PLRJxey1QgAOqv32P+q9ANCaxM+OsZ3yP4e1X5K3L\nOdIdDxBFAgMBAAECggEAJTTJ0qnjwUQbrNg+bVW5sJJcRH47cMFykGMkYc4APu8A\nMDpxQF4yYAiwJrJmZDY7ETZNFnKxtGW8OaWBOOZrrSvOSUtfxpdtONQsp/0QAT94\n4RW9MSD9/CYwssRfQKj6c+xKWMBrD3VDk5EQCDSoTj49rqqX6OEdZAFpehKz5me2\ntkC71ygWqtFDux7WwUU0PVpS9KpoWVO0pre1yXsmze3GWqHLzV4jOzpJ0WJvawJ9\n5a52r38EmV0iO3MietTysQ4t1/rZs8cCNsAKFJDowkpCXl/fe6hN+aK1DdO001iL\ndibC5tHFyewi9UxK8j8i1zTP/8ehcfuCVO/b4WitbQKBgQDmZiH86Ybw7Cg7L1q1\nFOOlx3BaKm10wzuuCeYxsbICSjl4zifDKqL3rIL4lVyw7SsZiTouUl/ErJKKd63p\nXMlOkR7wH5U8Wru6SVnIv+p5Fp5HgVcAJcbLCMkEFYr1aGt/M8dTV58I+hVDT0lG\nPVeyOUmi07tKA4AVGX4cY3AFMwKBgQDW31kKDNPowY2gn8VWhttjtMO/WbT3C52b\nxhOsJ1rNeE5he8M5I8V2F8pnp1ax240nwM+EViggcWYY5F7cFy9eosaxAiWSS7zu\nfwitS2PkKJ1uGeO5Jy6750FGEZnGpS74jIutEH/D9LuZl/cS6i8hBINcdCTTk8zO\nH2K5x72kpwKBgQCnpXNfu3EUB1Ky1h8zmjKXY0qOYUbp6lGXrt5QFJOJdQbir2dh\nbLnObDmUteIPX1O4LhEmuYuz6TpsBO+H2ZslTxVq9iA6HW9x+oOZPoRXfazILQXo\nNpSzEf5quV42ebeWhE+qhhxThN1J7/xKXsJcDbFWCKjED034jGcmMvjE3wKBgQC3\nfhgtavL0C4YEqyv8TkHADbg0Ckltxu+a/TYDh8AVQy28NdJrU07nID3q8o4oaJNM\nZW1RV7oAqpZDn5IaZXpAWMVQl8K6Ag+fo8AnLQBq8Pwv78/2Z62TLVMioRku+BT6\nkBsfeb2B+9bQvWNzNaV1jsMXCuAABnGZfFf0ysv6dQKBgBu5Ygn9WzVrdgia2uW9\nIu360i/Rv3YVx+u+3ECKU/RLtCoWISHePxbsF8vH4E+27QZ7xxhRORTex3IW241Q\nJWE5N66NSpCxtg/Vb8vjcvoU6LoLIq3wdX6UrQ5qHoftJQHIabMEbbwvu/Hw/oDG\nJBh0vIlZKMA1vru4/JmVuhUx\n-----END PRIVATE KEY-----\n",
+  "client_email": "pruebaprivado@prueba-privado-riic.iam.gserviceaccount.com",
+  "client_id": "111977054171538341972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pruebaprivado%40prueba-privado-riic.iam.gserviceaccount.com"
+}

@@ -1,0 +1,73 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "cursos",
+            "info",
+            "curso"        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "angular"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "node"
+        ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords":  [
+            "producto",
+            "productos",
+            "mercancia",
+            "disponible"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "pantalon",
+            "pantalón"
+        ],
+        "key": "STEP_3_1"
+    },
+    {
+        "keywords":  [
+            "camisa",
+            "camisas"
+        ],
+        "key": "STEP_3_2"
+    },
+    {
+        "keywords":  [
+            "muchas gracias",
+            "ok",
+            "gracias",
+            "vale gracias"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "telegram"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords":  [
+            "audio"
+        ],
+        "key": "STEP_8"
+    }
+]
